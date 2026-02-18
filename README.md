@@ -10,6 +10,6 @@
 - [HJA: Dynamic Storage](https://oregonstate.app.box.com/folder/314985710338)
 
 ### apply for instructor pool
-- [Link 1](https://jobs.oregonstate.edu/postings/172634)
-- [Link 2](https://jobs.oregonstate.edu/postings/173577)
+- [CEOAS](https://jobs.oregonstate.edu/postings/172634)
+- [Forestry](https://jobs.oregonstate.edu/postings/173577)
 
